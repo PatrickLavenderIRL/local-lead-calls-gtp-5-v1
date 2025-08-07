@@ -1,9 +1,16 @@
-# Project Rebuild
-This project was reconstructed from our working session.
+# My Full Project
+This is the reconstructed full version of our project.
 
-## Contents
-- index.html — main HTML page
-- style.css — site styling
-- script.js — JavaScript functionality
-- assets/logo.png — project logo
-- assets/data.json — sample data
+## Features
+- Responsive HTML layout
+- CSS styling
+- JavaScript interactivity
+- Multiple pages (Home, About, Contact)
+- JSON data & image assets for dynamic content
+
+## How to run
+1. Download the ZIP of this repo
+2. Extract it
+3. Open `index.html` in your browser
+
+Enjoy!
