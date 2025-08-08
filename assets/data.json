@@ -1,5 +1,9 @@
 {
-  "title": "My Full Project",
-  "description": "Dynamic JSON data for demonstration purposes.",
-  "items": ["Item One", "Item Two", "Item Three"]
+  "title": "Local Lead Calls",
+  "description": "Example dynamic data for Local Lead Calls website",
+  "services": [
+    "Local SEO",
+    "Lead Generation",
+    "Digital Advertising"
+  ]
 }
