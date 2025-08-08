@@ -1,7 +1,7 @@
 fetch('assets/data.json')
-  .then(res => res.json())
+  .then(response => response.json())
   .then(data => {
-    const output = document.getElementById('data-output');
-    output.innerHTML = `<pre>${JSON.stringify(data, null, 2)}</pre>`;
+    const outputDiv = document.getElementById('data-output');
+    outputDiv.innerHTML = `<pre>${JSON.stringify(data, null, 2)}</pre>`;
   })
-  .catch(err => console.error("Error:", err));
+  .catch(error => console.error('Error loading JSON:', error));
