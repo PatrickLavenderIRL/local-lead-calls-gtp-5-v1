@@ -1,16 +1,20 @@
-# My Full Project
-This is the reconstructed full version of our project.
+# Local Lead Calls - GTP-5 v1
+
+This is a simple HTML/CSS/JS multi-page site with example assets, JSON data, and form handling.
 
 ## Features
-- Responsive HTML layout
-- CSS styling
-- JavaScript interactivity
-- Multiple pages (Home, About, Contact)
-- JSON data & image assets for dynamic content
+- Home, About, Contact pages
+- Responsive layout
+- JSON data loading
+- Simple JavaScript interactivity
 
 ## How to run
-1. Download the ZIP of this repo
-2. Extract it
-3. Open `index.html` in your browser
+1. Download or clone the repo
+2. Open `index.html` in your browser
 
-Enjoy!
+## Structure
+- `index.html` — Home
+- `about.html` — About page
+- `contact.html` — Contact form
+- `assets/` — Images and data
+- `js/` — JavaScript modules
