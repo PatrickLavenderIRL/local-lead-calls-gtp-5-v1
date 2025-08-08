@@ -1,5 +1,5 @@
 {
-    "name": "Sample Project",
-    "version": "1.0.0",
-    "description": "This is a reconstructed project for GitHub upload."
+  "title": "My Full Project",
+  "description": "Dynamic JSON data for demonstration purposes.",
+  "items": ["Item One", "Item Two", "Item Three"]
 }
